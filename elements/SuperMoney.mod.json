@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Super Money",
+    "icon": {
+      "value": "CUSTOM:Creativeticket"
+    },
+    "showSearch": false
+  }
+}

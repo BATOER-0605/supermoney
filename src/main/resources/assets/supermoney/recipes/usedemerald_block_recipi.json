@@ -1,0 +1,42 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "supermoney:used_emerald"
+    },
+    "1": {
+      "item": "supermoney:used_emerald"
+    },
+    "2": {
+      "item": "supermoney:used_emerald"
+    },
+    "3": {
+      "item": "supermoney:used_emerald"
+    },
+    "4": {
+      "item": "supermoney:used_emerald"
+    },
+    "5": {
+      "item": "supermoney:used_emerald"
+    },
+    "6": {
+      "item": "supermoney:used_emerald"
+    },
+    "7": {
+      "item": "supermoney:used_emerald"
+    },
+    "8": {
+      "item": "supermoney:used_emerald"
+    }
+  },
+  "result": {
+    "item": "supermoney:usedemeraldbrock",
+    "count": 1
+  }
+}

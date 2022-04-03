@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "supermoney:blocks/emerald_block",
+    "up": "supermoney:blocks/emerald_block",
+    "north": "supermoney:blocks/emerald_block",
+    "east": "supermoney:blocks/emerald_block",
+    "south": "supermoney:blocks/emerald_block",
+    "west": "supermoney:blocks/emerald_block",
+    "particle": "supermoney:blocks/emerald_block"
+  }
+}

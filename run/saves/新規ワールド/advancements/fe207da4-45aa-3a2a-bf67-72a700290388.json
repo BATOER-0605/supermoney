@@ -1,0 +1,26 @@
+{
+  "supermoney:big_power": {
+    "criteria": {
+      "big_power": "2022-04-03 19:06:54 +0900"
+    },
+    "done": true
+  },
+  "supermoney:power_1": {
+    "criteria": {
+      "power_1": "2022-04-03 19:06:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-04-03 00:57:15 +0900"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-04-03 00:57:23 +0900"
+    },
+    "done": true
+  }
+}

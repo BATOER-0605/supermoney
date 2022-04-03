@@ -1,0 +1,13 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supermoney:eight_one_yen"
+    }
+  ],
+  "result": {
+    "item": "supermoney:nineyen",
+    "count": 9
+  }
+}

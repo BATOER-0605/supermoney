@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "supermoney:blocks/gold_block",
+    "up": "supermoney:blocks/gold_block",
+    "north": "supermoney:blocks/gold_block",
+    "east": "supermoney:blocks/gold_block",
+    "south": "supermoney:blocks/gold_block",
+    "west": "supermoney:blocks/gold_block",
+    "particle": "supermoney:blocks/gold_block"
+  }
+}

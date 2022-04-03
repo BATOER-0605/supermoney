@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "supermoney:blocks/emaraldjenerator",
+    "up": "supermoney:blocks/emaraldjenerator",
+    "north": "supermoney:blocks/emaraldjenerator",
+    "east": "supermoney:blocks/emaraldjenerator",
+    "south": "supermoney:blocks/emaraldjenerator",
+    "west": "supermoney:blocks/emaraldjenerator",
+    "particle": "supermoney:blocks/emaraldjenerator"
+  }
+}

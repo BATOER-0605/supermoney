@@ -1,0 +1,42 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "supermoney:powerof_money"
+    },
+    "1": {
+      "item": "supermoney:powerof_money"
+    },
+    "2": {
+      "item": "supermoney:powerof_money"
+    },
+    "3": {
+      "item": "supermoney:powerof_money"
+    },
+    "4": {
+      "item": "supermoney:powerof_money"
+    },
+    "5": {
+      "item": "supermoney:powerof_money"
+    },
+    "6": {
+      "item": "supermoney:powerof_money"
+    },
+    "7": {
+      "item": "supermoney:powerof_money"
+    },
+    "8": {
+      "item": "supermoney:powerof_money"
+    }
+  },
+  "result": {
+    "item": "supermoney:big_power_of_money",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "3": {
+      "item": "minecraft:beacon"
+    },
+    "4": {
+      "item": "minecraft:enchanting_table"
+    },
+    "5": {
+      "item": "minecraft:beacon"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "supermoney:power_comverter",
+    "count": 1
+  }
+}

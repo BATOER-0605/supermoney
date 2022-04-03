@@ -1,0 +1,81 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "エメラルド復元",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "エメラルド復元",
+          "x": 135,
+          "y": 45
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "復元",
+          "onClick": {
+            "name": "EmeraldJenerate"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "復元",
+          "x": 196,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 145,
+          "y": 79
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 164,
+          "y": 79
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 250,
+          "y": 79
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "supermoney:big_power": {
+    "criteria": {
+      "big_power": "2022-04-03 19:08:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2022-04-03 10:57:34 +0900"
+    },
+    "done": true
+  },
+  "supermoney:power_1": {
+    "criteria": {
+      "power_1": "2022-04-03 19:08:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-04-03 10:57:34 +0900"
+    },
+    "done": false
+  }
+}

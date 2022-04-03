@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      },
+      {
+        "value": "CUSTOM:PowerofMoney"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BigPowerOfMoney"
+    },
+    "name": "big_powerof_money_recipi",
+    "namespace": "mod"
+  }
+}

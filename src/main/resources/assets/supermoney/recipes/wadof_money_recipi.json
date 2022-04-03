@@ -1,0 +1,42 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "1": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "2": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "3": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "4": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "5": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "6": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "7": {
+      "item": "supermoney:eight_one_yen"
+    },
+    "8": {
+      "item": "supermoney:eight_one_yen"
+    }
+  },
+  "result": {
+    "item": "supermoney:wadof_money",
+    "count": 1
+  }
+}
