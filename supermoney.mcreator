@@ -469,6 +469,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reverse_wadto_81"
+    },
+    {
+      "name": "BigMoneyaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_moneyaxe"
     }
   ],
   "variable_elements": [],
@@ -508,6 +517,7 @@
       "tile.power_comverter.name": "à—Í•ÏŠ·Ší",
       "itemGroup.tabsuper_money": "Super Money",
       "item.money_armorlegs.name": "à—Í‚ÌƒŒƒMƒ“ƒX",
+      "item.big_moneyaxe.name": "Big Moneyaxe",
       "item.wallet.name": "‚¨à•z"
     },
     "ja_jp": {
@@ -535,6 +545,7 @@
       "tile.power_comverter.name": "à—Í•ÏŠ·Ší",
       "itemGroup.tabsuper_money": "Super Money",
       "item.money_armorlegs.name": "Money Leggings",
+      "item.big_moneyaxe.name": "Big Moneyaxe",
       "item.wallet.name": "‚¨à•z"
     }
   },
