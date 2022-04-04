@@ -1,0 +1,13 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "supermoney:creativeticket"
+    }
+  ],
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 64
+  }
+}

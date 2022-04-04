@@ -1,0 +1,27 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "   ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "supermoney:oneyen"
+    },
+    "2": {
+      "item": "supermoney:oneyen"
+    },
+    "6": {
+      "item": "supermoney:oneyen"
+    },
+    "8": {
+      "item": "supermoney:oneyen"
+    }
+  },
+  "result": {
+    "item": "supermoney:emerald_jenerator_block",
+    "count": 1
+  }
+}

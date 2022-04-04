@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "supermoney:money_jenerator_block"
+    }
+  }
+}

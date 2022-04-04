@@ -1,0 +1,11 @@
+{
+  "bgm1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "supermoney:y2mate.com_-_the_homebrew_channel_full_theme_320kbps_online-audio-converter.com",
+        "stream": true
+      }
+    ]
+  }
+}

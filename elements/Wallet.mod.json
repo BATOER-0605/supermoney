@@ -30,7 +30,7 @@
     ],
     "hasGlow": false,
     "guiBoundTo": "NormalWallet",
-    "inventorySize": 11,
+    "inventorySize": 1,
     "inventoryStackSize": 64,
     "onRightClickedInAir": {
       "name": "OpenWallets"

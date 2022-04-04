@@ -1,0 +1,26 @@
+{
+  "group": "supermoney",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "supermoney:oneyen"
+    },
+    "2": {
+      "item": "supermoney:oneyen"
+    },
+    "3": {
+      "item": "supermoney:oneyen"
+    },
+    "5": {
+      "item": "supermoney:oneyen"
+    }
+  },
+  "result": {
+    "item": "supermoney:money_armorboots",
+    "count": 1
+  }
+}
